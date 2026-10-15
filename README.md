@@ -87,7 +87,7 @@ The dashboard demonstrates how Power BI can be used to turn HR data into actiona
 
 The repository include the following files:
 
-- `HR_Analytics_Dashboard.pbix` – Power BI report file.
+- `HR Attrition Dashboard.pbix` – Power BI report file.
 - `dashboard.png` – Screenshot of the dashboard.
 - `README.md` – Project documentation.
 
