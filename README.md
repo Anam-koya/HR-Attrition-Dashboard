@@ -3,7 +3,7 @@ HR Analytics Dashboard built with Microsoft Power BI to analyze employee attriti
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](Dashboard.png)
 
 ## 📊 Project Overview
 
