@@ -95,7 +95,7 @@ The repository include the following files:
 
 1. Clone or download this repository.
 2. Download and install Microsoft Power BI Desktop.
-3. Open `HR_Analytics_Dashboard.pbix` in Power BI Desktop.
+3. Open `HR Attrition Dashboard.pbix` in Power BI Desktop.
 4. If prompted, configure the data source or file path.
 5. Navigate between the **Attrition Overview** and **Attrition Drivers & Insights** report pages.
 6. Use the department and job role slicers to explore the visualizations.
